@@ -1,4 +1,8 @@
 pandas
 scikit-learn
+seaborn
 numpy
 matplotlib
+notebook
+ipykernel
+openpyxl
