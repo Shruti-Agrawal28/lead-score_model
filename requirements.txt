@@ -6,8 +6,4 @@ matplotlib
 notebook
 ipykernel
 openpyxl
-xgboost==1.6.2
-Visualizer
-catboost
 ipywidgets
-lightgbm
