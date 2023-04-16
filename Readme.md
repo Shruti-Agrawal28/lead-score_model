@@ -5,3 +5,4 @@ This is a model that calculates the probability and finds the best potential lea
 
 ## METHODOLOGY
 The model uses machine learning techniques including logistic regression. The data is first preprocessed and cleaned to deal with missing values or any missing information. Also the accuracy is calculated using precision, recall, f1-score and accuracy_score.
+# lead-score_model
